@@ -1,0 +1,10 @@
+Rose 12
+Carnation 5
+Tulip 8
+Lily 15
+Sunflower 7
+Daisy 6
+Orchid 20
+Iris 10
+Crocus 4
+Peony 18
