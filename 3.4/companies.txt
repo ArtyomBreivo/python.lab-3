@@ -1,0 +1,1 @@
+firm_1 LLC 10000 5000firm_2 JSC 8000 6000firm_3 Sole Proprietorship 3000 4000
